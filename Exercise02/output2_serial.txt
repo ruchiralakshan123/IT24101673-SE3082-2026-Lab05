@@ -1,0 +1,4 @@
+thread # 0
+Inside Single # 0
+Exiting Single 
+Hi again from thread # 0
