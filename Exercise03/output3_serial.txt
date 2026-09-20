@@ -1,0 +1,4 @@
+thread # 0
+Inside Master # 0
+Exiting Master 
+Hi again from thread # 0
