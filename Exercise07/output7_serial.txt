@@ -1,0 +1,2 @@
+Area of Mandlebrot set =   1.50928453 +/-   0.00075464
+Time taken = 11.435611 seconds
